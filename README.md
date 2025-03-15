@@ -67,4 +67,4 @@ php artisan serve
 
 ## License
 
-- **Sistem Informasi Akademik Sekolah is open-sourced software licensed under the MIT license.**
+- **CashMate is open-sourced software licensed under the MIT license.**
